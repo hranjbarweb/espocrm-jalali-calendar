@@ -1,0 +1,14 @@
+{
+    "name": "Jalali Calendar",
+    "description": "Shamsi dates, picker, calendar and period filters for EspoCRM 10. Stored values stay Gregorian.",
+    "author": "Jalali Calendar",
+    "php": [
+        ">=8.2"
+    ],
+    "acceptableVersions": [
+        ">=10.0.0"
+    ],
+    "version": "1.0.0",
+    "type": "extension",
+    "releaseDate": "2026-10-21"
+}

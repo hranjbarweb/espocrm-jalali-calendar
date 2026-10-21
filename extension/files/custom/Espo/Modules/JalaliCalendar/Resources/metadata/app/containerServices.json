@@ -1,0 +1,5 @@
+{
+    "dateTime": {
+        "loaderClassName": "Espo\\Modules\\JalaliCalendar\\Loaders\\DateTime"
+    }
+}
